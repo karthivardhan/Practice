@@ -1,0 +1,11 @@
+x = int(input("Enter a number: "))
+if x%2 == 0:
+    print(x, "is an even number")
+else:
+    print(x, "is an odd number")
+
+a = 4
+if a%2 == 0:
+    print(a, "is an even number")
+else:
+    print(a, "is an odd number")

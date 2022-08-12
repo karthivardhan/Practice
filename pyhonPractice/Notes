@@ -1,0 +1,47 @@
+
+Python is an object oriented programming language.
+
+Almost everything in Python is an object, with its properties and methods.
+
+A Class is like an object constructor, or a "blueprint" for creating objects
+
+
+
+Polymorphism: is the ability of the code to take multiple forms. Let’s say,
+if the parent class has a method named XYZ then the child class can also have a method with the same
+name XYZ having its own variables and parameters.
+
+Encapsulation: in Python refers to the process of wrapping up the variables and different functions
+into a single entity or capsule.Python class is the best example of encapsulation in python.
+
+A lambda:
+ function is an anonymous function (a function that does not have a name) in Python.
+ To define anonymous functions, we use the ‘lambda’ keyword instead of the ‘def’ keyword
+
+l = lambda x,y : x*y
+print(a(5, 6))
+
+
+1. Explain the different exceptions in Selenium WebDriver.
+TimeoutException: This exception is thrown when a command performing an operation does not complete in the stipulated
+time.
+NoSuchElementException: This exception is thrown when an element with given attributes is not found on the web page.
+ElementNotVisibleException: This exception is thrown when the element is present in DOM (Document Object Model),
+but not visible on the web page.
+StaleElementException: This exception is thrown when the element is either deleted or no longer attached to the DOM.
+
+2. What is POM (Page Object Model)? What are its advantages?
+Page Object Model is a design pattern for creating an Object Repository for web UI elements.
+
+The advantages of using POM are:
+Allows us to separate operations and flows in the UI from Verification – improves code readability
+Since the Object Repository is independent of Test Cases, multiple tests can use the same Object Repository
+Reusability of code
+
+> Use the __init__() function to assign values to object properties.
+
+> Types of operators:
+Arithmetic
+Comparison
+Assignment
+Logical

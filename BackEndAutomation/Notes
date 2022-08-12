@@ -1,0 +1,21 @@
+
+
+Notes - https://requests.readthedocs.io/en/latest/
+httpbin.org
+
+Json = https://jsoneditoronline.org/#left=local.merite&right=local.puqemi
+
+1. Json parser with Python modules
+Read and write to Json files with Python
+API Automation with requests library
+Understand Crud operations: POST, GET, PUT and Delete API methods for automation
+Parsing API responses with python utilities
+
+
+> Config parser
+>
+
+================Questions==================
+What does the requests library do?
+Allow to send/retrieve HTTP requests using Python
+

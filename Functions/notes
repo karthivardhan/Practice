@@ -1,0 +1,7 @@
+Function: is a bunch of statements to perform a task.
+=> Different types of arguments:
+ - Default
+ - Position
+ - Keyword
+ - Variable length
+

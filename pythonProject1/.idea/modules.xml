@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Array/.idea/Array.iml" filepath="$PROJECT_DIR$/../Array/.idea/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Basics/.idea/Basics.iml" filepath="$PROJECT_DIR$/../Basics/.idea/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Functions/.idea/Functions.iml" filepath="$PROJECT_DIR$/../Functions/.idea/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oops/.idea/Oopa.iml" filepath="$PROJECT_DIR$/../Oops/.idea/Oopa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../controlstatements/.idea/controlstatements.iml" filepath="$PROJECT_DIR$/../controlstatements/.idea/controlstatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/.idea/modules.iml" filepath="$PROJECT_DIR$/../modules/.idea/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../printandinput/.idea/printandinput.iml" filepath="$PROJECT_DIR$/../printandinput/.idea/printandinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/.idea/pythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stack/.idea/stack.iml" filepath="$PROJECT_DIR$/../stack/.idea/stack.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+a = 10
+b = 20
+print(a==10 and b==20)
+print(a==20 and b==20)
+print(a==10 or b==20)
+print(a==11 or b==20)
+print(a==11 or b==21)
+print(not(a==10 or b==20))
+print(not(a==11 or b==21))

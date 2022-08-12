@@ -1,0 +1,11 @@
+f = open('file_testing.txt', 'r')
+print(f.read())
+f.close()
+
+f = open('file_testing.txt', 'w')
+f.write('edfrkadsa')
+f = open('file_testing.txt', 'a')
+f.write('abcdkasas')
+f = open('file_testing.txt', 'r')
+print(f.read())
+f.close()
